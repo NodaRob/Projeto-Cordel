@@ -78,11 +78,12 @@ section.imagem > p {
         background-color: rgba(0, 0, 0, 0.473);
         padding: 5px;
         text-shadow: 1px, 1px 0px rgba(0, 0, 0, 0.493);
+        background-position:  right center;
 }
 
 section#img01 {
     background-image: url('../imagens/background001.jpg');
-    background-position: left center;
+    background-position:  right center;
     
 
 }
